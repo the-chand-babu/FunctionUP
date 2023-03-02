@@ -1,0 +1,3 @@
+	Q. what is the diffrence between git stash apply and git satash pop?
+	Ans the diffrence between git stash apply and git stash pop is basically in git stash applly we can remove last recent change and also we can use this change in any other loaction here it is not removing permanantly
+but in git stash pop it will remove last recent change but it will remove permanantly
